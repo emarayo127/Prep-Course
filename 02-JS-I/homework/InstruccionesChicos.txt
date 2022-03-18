@@ -1,0 +1,6 @@
+"Descripción para chicos"
+Las variables: Son utilizasas para almacenar su valor que sera usado luego.
+Los strings: Se definen a los textos o mensajes enserrados en una comilla o ambas ('') o (""). 
+Las funciones: Son muy importante en javascript y siempre necesita de los paréntesis para poder ejecutarse, porque són objetos particulares u objetos invocables que tienen las mismas propiedades que cualquier objeto. Los argumentos se pueden agregar varios solo colocando una coma entre ellos. Return es cuando queremos devolver algo que esta mal o simplemente porque en un trabajo te pidieron que se haga el retorno "return".
+Declaraciones If: Estas declaraciones permiten controlar el flujo de ejecución de un programa basándose en las condiciones conocidas solo durante el tiempo de ejecución.
+Valores booleano: Los booleanos son un tipo de dato primitivo comúnmente usado en lenguajes de programación. Por definición, un booleano tiene 2 posibles valores: true (verdadero) o false (falso).
